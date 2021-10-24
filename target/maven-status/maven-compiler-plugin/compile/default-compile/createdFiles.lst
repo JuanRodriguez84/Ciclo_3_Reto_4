@@ -1,5 +1,6 @@
 co\usa\ciclo3\reto4\repository\CategoryRepository.class
 co\usa\ciclo3\reto4\service\SkateService.class
+co\usa\ciclo3\reto4\web\UserController.class
 co\usa\ciclo3\reto4\model\Category.class
 co\usa\ciclo3\reto4\web\ReservationController.class
 co\usa\ciclo3\reto4\Ciclo3Application.class
